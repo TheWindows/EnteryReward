@@ -1,0 +1,6 @@
+name: EntryReward
+version: 1.0.0
+main: EntryReward\Main
+author: TheWindows
+api: 5.0.0
+depend: [EconomyAPI]
