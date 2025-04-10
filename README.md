@@ -10,4 +10,4 @@
 
 # 🔑 | Dependencies
 
-- EconomyApi 
+EconomyApi 
